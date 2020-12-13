@@ -9,7 +9,7 @@ const globals = require('../../config/globals')
 // Allow cross origin requests
 
 router.use((req, res, next) => {
-    res.header('Access-Control-Allow-Origin', globals.ids.clientRoot);
+    res.header('Access-Control-Allow-Origin', globals.clientRoot);
     res.header('Access-Control-Allow-Headers', 'Origin, X-Request-With, Content-Type, Accept');
     res.header('Access-Control-Allow-Origin', 'GET, POST, PUT,DELETE,OPTIONS');
     next();
