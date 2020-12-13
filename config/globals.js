@@ -15,11 +15,9 @@ module.exports =
                 //callbackURL: 'nodemon'
             },
 
-           /* 'github': {
-                clientID: '',
-                clientSecret: '',
-                callbackURL: 'http://localhost:3000/github/callback'
-                //callbackURL: 'nodemon'
-            }*/
+            'apiRoot': 'http://localhost:3000',
+            'clientRoot': 'http://localhost:4200'
+
+
         }
 }

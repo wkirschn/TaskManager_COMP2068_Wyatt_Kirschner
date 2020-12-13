@@ -20,7 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69e3e8c3-27da-48f4-9133-2179c0cc47ce" name="Default Changelist" comment="Enough for tonight, L10 - 1:06:49">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/services/task.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/services/task.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/task/task.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/task/task.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/app/task/task.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/app/task/task.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/globals.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/globals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/tasks.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lah9Pd2ex4nSU2qzApf47c00Id" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -73,7 +81,7 @@
       <workItem from="1607843891534" duration="17000" />
       <workItem from="1607843927895" duration="25000" />
       <workItem from="1607844162845" duration="4212000" />
-      <workItem from="1607886200546" duration="451000" />
+      <workItem from="1607886200546" duration="3884000" />
     </task>
     <task id="LOCAL-00001" summary="Bootstrap">
       <created>1607848413362</created>
@@ -103,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607886281360</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Another commit">
+      <created>1607886829473</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607886829473</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,6 +143,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Another commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="588" y="1213" key="#com.intellij.ide.util.MemberChooser" timestamp="1607889063028">
+      <screen x="14" y="1080" width="1536" height="840" />
+    </state>
+    <state x="588" y="1213" key="#com.intellij.ide.util.MemberChooser/14.1080.1536.840/0.0.1920.1050/1934.0.1080.1890@14.1080.1536.840" timestamp="1607889063028" />
     <state x="661" y="1395" width="475" height="204" key="Github.ShareDialog" timestamp="1607847776533">
       <screen x="14" y="1080" width="1536" height="840" />
     </state>
@@ -152,9 +171,13 @@
       <screen x="14" y="1080" width="1536" height="840" />
     </state>
     <state width="1515" height="214" key="GridCell.Tab.0.right/14.1080.1536.840/0.0.1920.1050/1934.0.1080.1890@14.1080.1536.840" timestamp="1607843876813" />
-    <state x="375" y="1230" key="Vcs.Push.Dialog.v2" timestamp="1607886474783">
+    <state x="375" y="1230" key="Vcs.Push.Dialog.v2" timestamp="1607886857250">
       <screen x="14" y="1080" width="1536" height="840" />
     </state>
-    <state x="375" y="1230" key="Vcs.Push.Dialog.v2/14.1080.1536.840/0.0.1920.1050/1934.0.1080.1890@14.1080.1536.840" timestamp="1607886474783" />
+    <state x="375" y="1230" key="Vcs.Push.Dialog.v2/14.1080.1536.840/0.0.1920.1050/1934.0.1080.1890@14.1080.1536.840" timestamp="1607886857250" />
+    <state x="445" y="1241" width="672" height="678" key="search.everywhere.popup" timestamp="1607888236293">
+      <screen x="14" y="1080" width="1536" height="840" />
+    </state>
+    <state x="445" y="1241" width="672" height="678" key="search.everywhere.popup/14.1080.1536.840/0.0.1920.1050/1934.0.1080.1890@14.1080.1536.840" timestamp="1607888236293" />
   </component>
 </project>
